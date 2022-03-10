@@ -6,6 +6,7 @@ wordsDict = {
     "this" : 43,
     "who" : [56, 34, 44]
     }
+    
 otherDict = copy.deepcopy(wordsDict)
 wordsDict["who"].append(100)
 print(wordsDict)
