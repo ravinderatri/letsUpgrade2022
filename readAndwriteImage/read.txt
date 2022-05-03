@@ -1,0 +1,18 @@
+Write a python function that does the following task:
+
+1. Open this image
+2. Take the name as input from the user.
+3. Write at the given dash position (Name's size and position should be kept in Mind)
+4. Save the modified image with the written name into the local system. (the final output image is given for reference.
+
+
+Submission Steps:
+
+1. Write the code using a function.
+2. Write clean and efficient code.
+3. Use comments wherever required.
+4. Make a Repo on GitHub, Push the code to the repo and make a readme file containing 
+all the steps that you followed and write down the names of the external libraries/modules/packages that you used to 
+complete this function and why did you use the mentioned libraries.
+5. Include your result image in the GitHub repo.
+6. Share the GitHub link as the solution.
